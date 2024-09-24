@@ -34,6 +34,8 @@ function validateForm() {
     return true;
 }
 
+
+
 function togglePasswordVisibility() {
     const passwordInput = document.getElementById('password');
     const toggleIcon = document.getElementById('toggleIcon');
